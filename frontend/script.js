@@ -1,4 +1,4 @@
-const API = "http://localhost:5000";
+const API = "https://ecommerce-backend-9fzo.onrender.com/register";
 
 
 
